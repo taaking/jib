@@ -1,1 +1,1 @@
-FROM:123456/java-application
+FROM 123456/java-application

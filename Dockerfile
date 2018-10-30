@@ -1,1 +1,1 @@
-FROM:gcr.io/distroless/java
+FROM:https://hub.docker.com/r/123456/java-application/

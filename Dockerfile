@@ -1,2 +1,2 @@
 #FROM 123456/java-application
-FROM gcr.io/distroless/java
+FROM gcr.io/distroless/java:11
